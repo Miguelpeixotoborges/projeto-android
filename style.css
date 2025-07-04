@@ -28,9 +28,8 @@
       display: flex;
       justify-content: center;
       gap: 15px;
-      border-radius: 10px;
-
     }
+    
 
     #menu a {
       text-decoration: none;
