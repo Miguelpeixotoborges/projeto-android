@@ -20,7 +20,6 @@
       background-image: linear-gradient(to bottom, #388e3c, #4caf50, rgb(62, 95, 67));
       text-align: center;
       padding: 20px 0;
-      border-radius: 50px;
       margin-bottom: 30px;
       color: white;
     }
@@ -47,7 +46,7 @@
     }
 
     .main {
-      background-color: rgba(255, 255, 255, 0.9);
+      background-color: rgba(221, 231, 221, 0.9);
       margin: 20px;
       padding: 20px;
       border-radius: 10px;
@@ -57,7 +56,7 @@
     .bloco {
       text-align: center;
       padding: 20px;
-      background-color: #81C784;
+      border-radius: 5px;
     }
 
     .bloco h2 {
